@@ -38,4 +38,3 @@ end)
 HelpSection:NewTextBox("Crash", "Crashs a Person Nevermind kills", function(txt)
 	print(txt)
 end)
-
